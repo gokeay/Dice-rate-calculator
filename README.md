@@ -26,11 +26,11 @@ The program presents the calculated percentage distributions in a tabular format
 ## Notes
 
 - To ensure accurate results, the program uses the time function (`srand(time(NULL))`) for random number generation.
-- The loops, variables, and arrays in the code are used to support the calculation process.
-
 ---
 
 This program can be used to see which numbers are more likely to occur in a specific dice game or to analyze the distribution of the sum of two dice.
+
+
 
 ## Türkçe
 
@@ -60,7 +60,6 @@ Program, hesaplanan yüzdelik oranları bir tablo şeklinde gösterir. Her bir s
 ## Notlar
 
 - Programın doğru sonuçlar vermesi için, rastgele sayı üretimi için zaman fonksiyonunu (`srand(time(NULL))`) kullanır.
-- Kodun içerisindeki döngüler, değişkenler ve diziler, hesaplama sürecini desteklemek için kullanılır.
 
 ---
 
