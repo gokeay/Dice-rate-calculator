@@ -1,4 +1,40 @@
+## English
+
 # Dice-rate-calculator
+
+This program is used to calculate statistics about the outcomes of rolling dice based on the user's input. The purpose of the program is to show the percentage distribution of numbers obtained from dice rolls.
+
+## How to Use
+
+1. When the program is run, the user is prompted to choose the number of dice to calculate the statistics for.
+2. Press '1' if you want to calculate the statistics for a single die.
+3. Press '2' if you want to calculate the statistics for the sum of two dice.
+4. Press '0' to exit the program.
+
+## Calculation Process
+
+1. After selecting the desired number of dice, a specified number of dice rolls are performed (default is 10,000 times).
+2. In each dice roll, the values of the dice are randomly determined (between 1 and 6).
+3. Based on the sum of the dice values, the corresponding counters are updated.
+4. The calculated counts are converted into percentage distributions.
+5. The results are displayed, showing the percentage distribution of each number and the total percentage.
+
+## Result Presentation
+
+The program presents the calculated percentage distributions in a tabular format. Each row represents a number, and the percentage distribution is shown with the '*' character. A row at the bottom of the table displays the total percentage distribution.
+
+## Notes
+
+- To ensure accurate results, the program uses the time function (`srand(time(NULL))`) for random number generation.
+- The loops, variables, and arrays in the code are used to support the calculation process.
+
+---
+
+This program can be used to calculate and visualize statistics for dice games. For example, you can use it to see which numbers are more likely to occur in a specific dice game or to analyze the distribution of the sum of two dice. It can also be beneficial for students studying probability calculations or researchers working on dice games.
+
+## Türkçe
+
+# Zar-istatistiği-hesaplayıcı
 
 Bu program, kullanıcının istediği miktarda zarın atılmasıyla ilgili istatistikleri hesaplamak için kullanılır. Programın amacı, zar atma işlemi sonucunda elde edilen sayıların yüzdelik dağılımlarını göstermektir.
 
