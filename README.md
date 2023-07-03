@@ -30,7 +30,7 @@ The program presents the calculated percentage distributions in a tabular format
 
 ---
 
-This program can be used to calculate and visualize statistics for dice games. For example, you can use it to see which numbers are more likely to occur in a specific dice game or to analyze the distribution of the sum of two dice. It can also be beneficial for students studying probability calculations or researchers working on dice games.
+This program can be used to see which numbers are more likely to occur in a specific dice game or to analyze the distribution of the sum of two dice.
 
 ## Türkçe
 
@@ -64,5 +64,5 @@ Program, hesaplanan yüzdelik oranları bir tablo şeklinde gösterir. Her bir s
 
 ---
 
-Bu program, zar oyunlarının istatistiklerini hesaplama ve görselleştirme için kullanılabilir. Örneğin, belirli bir zar oyununda hangi sayıların daha sık geldiğini veya iki zarın toplamının hangi değerlerde daha yaygın olduğunu görmek istediğinizde bu programı kullanabilirsiniz. Ayrıca, zar oyunlarının olasılık hesaplamalarıyla ilgilenen öğrenciler veya zar oyunları üzerine çalışan araştırmacılar için de faydalı olabilir.
+Bu program, belirli bir zar oyununda hangi sayıların daha sık geldiğini veya iki zarın toplamının hangi değerlerde daha yaygın olduğunu görmek istediğinizde bu programı kullanabilirsiniz.
 
